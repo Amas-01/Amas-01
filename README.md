@@ -1,11 +1,11 @@
-## Hi there 👋,I'm Amas
+## 
+[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hi+there+,;I'm+Amas)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;Web3+Enthusiast;Innovative+Solutions;Open+Source+Contributor)](https://git.io/typing-svg)
+---
 
 A full-stack developer focused on building innovative solutions.  
-🚀 A curious builder exploring the intersection of **blockchain, smart contracts, and web development**.
+🚀 A curious builder exploring the intersection of **blockchain, smart contracts, and web development**.I enjoy breaking down complex systems, experimenting with decentralized technologies, and documenting what I learn.  
 
-I enjoy breaking down complex systems, experimenting with decentralized technologies, and documenting what I learn.  
 🌱 Learning Advanced Integration patterns and Web3 Developments  
 ⚡ Fun fact: I enjoy solving complex problems and turning ideas into reality  
 🔗 Diving deep into **blockchain ecosystems**, exploring smart contracts, identity management, and decentralized applications (dApps).  
