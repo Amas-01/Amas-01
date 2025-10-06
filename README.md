@@ -24,6 +24,13 @@ A full-stack developer focused on building innovative solutions.
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 
 ---
+## 🤝 Let's Connect
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ama_s01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmujeeb-a-587206225/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stealthdev301@gmail.com)
+
+---
 
 ## 🔗 Web3 & Blockchain
 
@@ -40,12 +47,5 @@ A full-stack developer focused on building innovative solutions.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amas-01&theme=tokyonight)
 ![Profile views](https://komarev.com/ghpvc/?username=Amas-01&color=blueviolet&style=for-the-badge)
 
----
-
-## 🤝 Let's Connect
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ama_s01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmujeeb-a-587206225/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stealthdev301@gmail.com)
 
 Let's build something amazing together 🚀
